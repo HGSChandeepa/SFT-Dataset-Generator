@@ -1,4 +1,4 @@
-# SFT Dataset Generator with Gemini 2.0 Flash
+# SFT Dataset Generator for TRL
 
 A production-ready Python script that automatically generates high-quality supervised fine-tuning (SFT) datasets for chat-based language models using Google's Gemini 2.0 Flash API. Compatible with TRL (Transformer Reinforcement Learning) and Hugging Face Transformers.
 
